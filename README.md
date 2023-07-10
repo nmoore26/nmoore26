@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nmoore26. Welcome!
 - 👀 I’m interested in data analytics, algorithms & software engineering. 
-- 🌱 I’m have learned Python and I am focusing on improving my Python skills. In the near future will learn Java, C, C++ and Haskell through my college classes
+- 🌱 I have learned Python and I am focusing on improving my Python skills. In the near future will learn Java, C, C++ and Haskell through my college classes
 - 📫 You can reach out to me at nmoore5@tulane.edu
 
 <!---
